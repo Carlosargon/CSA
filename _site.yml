@@ -5,7 +5,7 @@ navbar:
   title: "WEB"
   left:
   - text: "Movilidad social en Chile"
-    href: Entrega-Csa.html
+    href: Entrega-CSA.html
   right:
   - icon: fa-envelope fa-lg
     href: carlos.arriagada@ug.uchile.cl

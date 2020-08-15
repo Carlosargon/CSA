@@ -1,4 +1,4 @@
 ---
-title: "Movilidad social en Chile"
+title: "index"
 output: html_document
 ---
