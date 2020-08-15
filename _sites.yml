@@ -1,0 +1,18 @@
+---
+name: "Mi Nombre"
+output_dir: "."
+navbar:
+  title: "WEB"
+  left:
+  - text: "Movilidad social en Chile."
+    href: Entrega-Csa.hmtl
+  right:
+  - icon: fa-envelope fa-lg
+    href: carlos.arriagada@ug.uchile.cl
+  - icon: fa-github fa-lg
+    href: https://github.com/Carlosargon/CSA
+output:
+  html_document:
+    theme: cerulean 
+    css: 'styles.css'
+---
